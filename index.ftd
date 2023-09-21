@@ -1,6 +1,7 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: lobmax145.github.io/podfolio/lib
+-- import: fastnui.trizwit.com/UI-Components/Contact/contact-1
 
 -- lib.page:
 
@@ -13,6 +14,11 @@ cta-text-3: Resume
 cta-text-1-url: index.html
 cta-text-2-url: index.html
 cta-text-3-url: index.html
+-- contact-1.contact-1: Feedback
+cta-button-1: Button
+link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
+
+Post-ironic portland shabby chic echo park, banjo fashion axe
 
 -- hero-1.hero-1: I'm Naveen R
 cta-button-1: Resume
